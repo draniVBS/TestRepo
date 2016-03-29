@@ -26,11 +26,11 @@
         </header>
         <p>
             <span class="label">Support:</span>
-            <span><a href="mailto:Support@example.com">Support@example.com</a></span>
+            <span><a href="mailto:Support@example.com">deepika.rani@example.com</a></span>
         </p>
         <p>
             <span class="label">Marketing:</span>
-            <span><a href="mailto:Marketing@example.com">Marketing@example.com</a></span>
+            <span><a href="mailto:Marketing@example.com">rajiv.sharma@example.com</a></span>
         </p>
         <p>
             <span class="label">General:</span>
