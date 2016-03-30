@@ -16,7 +16,7 @@
         </div>
     </section>
 </asp:Content>
-<asp:Content runat="server" ID="BodyContent" ContentPlaceHolderID="MainContent">
+<asp:Content runat="server" ID="BodyContent7" ContentPlaceHolderID="MainContent">
     <h3>We suggest the following:</h3>
     <ol class="round">
         <li class="one">
