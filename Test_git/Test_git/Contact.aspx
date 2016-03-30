@@ -34,7 +34,7 @@
         </p>
         <p>
             <span class="label">General:</span>
-            <span><a href="mailto:General@example.com">charan1234@example.com</a></span>
+            <span><a href="mailto:General@example.com">charan@example.com</a></span>
         </p>
     </section>
 
